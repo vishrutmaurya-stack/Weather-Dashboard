@@ -1,0 +1,1 @@
+{"name":"atmos-weather-dashboard","version":"1.0.0","private":true,"description":"WeatherAPI dashboard with server-side proxy and JSON inspector","scripts":{"dev":"vercel dev","start":"vercel dev"},"engines":{"node":">=18"}}
